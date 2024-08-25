@@ -1,0 +1,11 @@
+.add-todo-container {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .add-todo-container.duplicate {
+    border-color: blue;
+    background-color: #e0f7fa; /* Light blue background for visibility */
+  }
+  
